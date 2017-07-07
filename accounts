@@ -361,8 +361,8 @@
     Player:天火狐                             0 Shinies
     Player:grok
 
-2017-05-24 * CuddleBeam
-    Player:CuddleBeam                        5 Shinies
+2017-05-24 * Cuddlebeam
+    Player:Cuddlebeam                        5 Shinies
     Player:nichdel
 
 2017-05-24 * Quazie
@@ -379,7 +379,7 @@
 
 2017-05-25 * Quazie
     Player:Quazie                            1 Shinies
-    Player:CuddleBeam
+    Player:Cuddlebeam
 
 2017-05-29 * Nichdel Deregisters
     Player:nichdel                         -60 Shinies = 0 Shinies
@@ -410,7 +410,7 @@
     Player:Publius Scribonius Scholasticus  10 Shinies
     Player:tmanthe2nd                       10 Shinies
     Player:Gaelan                           10 Shinies
-    Player:CuddleBeam                       10 Shinies
+    Player:Cuddlebeam                       10 Shinies
     Player:Ienpw III                        10 Shinies
     Player:Veggiekeks                       10 Shinies
     Agora
@@ -494,3 +494,75 @@
 2017-06-29 * Agora
     Agora                                    6 Shinies
     Player:Aris
+
+2017-06-30 * Agora
+    Agora                                    6 Shinies
+    Player:Cuddlebeam
+
+2017-07-01 * Payday
+    Player:ais523                           10 Shinies
+    Player:Aris                             10 Shinies
+    Player:Bayushi                          10 Shinies
+    Player:Murphy                           10 Shinies
+    Player:o                                10 Shinies
+    Player:omd                              10 Shinies
+    Player:Sprocklem                        10 Shinies
+    Player:天火狐                            10 Shinies
+    Player:Zachary Watterson                10 Shinies
+    Player:Quazie                           10 Shinies
+    Player:Publius Scribonius Scholasticus  10 Shinies
+    Player:tmanthe2nd                       10 Shinies
+    Player:Gaelan                           10 Shinies
+    Player:Cuddlebeam                       10 Shinies
+    Player:Ienpw III                        10 Shinies
+    Player:Veggiekeks                       10 Shinies
+    Player:V.J. Rada                        10 Shinies
+    Agora
+
+2017-07-01 * Report Payday
+    Player:o                                 2 Shinies
+    Player:o                                 2 Shinies
+    Player:o                                 2 Shinies
+    Player:o                                 2 Shinies
+    Player:Publius Scribonius Scholasticus   2 Shinies
+    Player:Veggiekeks                        2 Shinies
+    Player:Quazie                            2 Shinies
+    Player:Aris                              2 Shinies
+    Player:ais523                            2 Shinies
+    Player:Quazie                            2 Shinies
+    Player:Aris                              2 Shinies
+    Player:o                                 2 Shinies
+    Player:o                                 2 Shinies
+    Player:o                                 2 Shinies
+    Player:Publius Scribonius Scholasticus   2 Shinies
+    Player:Veggiekeks                        2 Shinies
+    Player:o                                 2 Shinies
+    Player:o                                 2 Shinies
+    Player:o                                 2 Shinies
+    Player:Aris                              2 Shinies
+    Player:Gaelan                            2 Shinies
+    Player:Gaelan                            2 Shinies
+    Player:Publius Scribonius Scholasticus   2 Shinies
+    Player:Quazie                            2 Shinies
+    Player:o                                 2 Shinies
+    Player:o                                 2 Shinies
+    Player:o                                 2 Shinies
+    Agora
+
+2017-07-01 * Office Payday
+    Player:ais523                                   2 Shinies
+    Player:Quazie                                   2 Shinies
+    Player:Quazie                                   2 Shinies
+    Player:Publius Scribonius Scholasticus          2 Shinies
+    Player:Quazie                                   2 Shinies
+    Player:Aris                                     2 Shinies
+    Player:o                                        2 Shinies
+    Player:Publius Scribonius Scholasticus          2 Shinies
+    Player:Veggiekeks                               2 Shinies
+    Player:Gaelan                                   2 Shinies
+    Player:o                                        2 Shinies
+    Player:ais523                                   2 Shinies
+    Player:Publius Scribonius Scholasticus          2 Shinies
+    Player:o                                        2 Shinies
+    Player:ais523                                   2 Shinies
+    Agora
