@@ -516,7 +516,7 @@
     Player:Cuddlebeam                       10 Shinies
     Player:Ienpw III                        10 Shinies
     Player:Veggiekeks                       10 Shinies
-    Player:V.J. Rada                        10 Shinies
+    Player:V.J Rada                         10 Shinies
     Agora
 
 2017-07-01 * Report Payday
@@ -575,7 +575,18 @@
     Agora                                           6 Shinies
     Player:Murphy
 
-2017-07-16 ! nichdel
-    ; :cfj: unassigned ("Re: BUS: Payment")
-    Player:nichdel                                  5 Shinies
-    Player:Quazie
+2017-07-18 * Cuddlebeam
+    Player:Cuddlebeam                               1 Shinies
+    Player:o
+
+2017-07-20 * Agora
+    Agora                                           5 Shinies
+    Player:V.J Rada
+
+2017-07-21 * Cuddlebeam deregisters
+    Lost:Deregistered:Cuddlebeam                    1 Shinies
+    Player:Cuddlebeam                                         = 0 Shinies
+
+2017-07-23 * Organization "ASaAA" created
+    Organization:ASaAA:Member:nichdel              50 Budget
+    Player:nichdel

@@ -6,12 +6,14 @@ Date of last report: Sat  1 Jul 2017
 
 Recent events (all times UTC)
 
------ previous report -----
------ time of last report -----
 Thu, 27 Apr 2017 05:33:46  nichdel created Organization "AAaAA"
 Wed,  3 May 2017 04:22:28  o amended Organization "AVM"'s charter
 Thu, 25 May 2017 17:04:03  Organization 蘭亭社 charter amended (天火狐)
+----- previous report -----
 Fri,  2 Jun 2017 05:38:18  Organization "AAaAA" destroyed (o)
+----- time of last report -----
+Sun, 23 Jul 2017 23:38:13  nichdel created Organization "Agoran Stamps
+                            and Awards Association"
 
 
 [The Agoran Betting Market]
@@ -100,6 +102,49 @@ the original messages containing them.
  * Each member has a number of Union Credits, initially zero. At the
    end of each week, each member gains a number of Union Credits
    equal to three times eir Budget Switch.
+
+
+[Agoran Stamps and Awards Association]
+
+Agoran Stamps and Awards Association
+
+Boilerplate
+-----------
+
+An amendment to this Organization is Appropriate if intent to perform
+it was announced between 4 and 14 days ago, and no members of the
+Organization have publicly objected to it since.
+
+For the purposes of this charter, 'ASaAA' refers to this Organization
+and 'member' refers to any member of this Organization. 'Proxies' are an
+imaginary asset tracked by the Organization and only changeable,
+transferable or otherwise manipulable as defined in this charter.
+
+While there is no asset named 'Stamps', the remainder of this charter is
+void and has no effect.
+
+ASaAA Sessions
+-------------
+
+By default, the ASaAA is in an Open Session.
+
+During an Open Session, any member may pay the ASaAA any number of
+shinies to receive the same number of ASaAA Proxies.
+
+During an Open Session, any member may transfer one Stamp to the ASaAA
+and, on behalf of the ASaAA, transfer all the ASaAA's shinies to emself
+by announcement. When this happens the ASaAA Open Session ends and an
+ASaAA Voting Session begins.
+
+During an ASaAA Voting Session, each member may vote for any member(s)
+any number of times and in any combination as long as eir total votes do
+not exceed eir current number of Proxies.
+
+An ASaAA Voting Session ends after 3 days. When an ASaAA Voting Session
+has ended, any member may, on behalf of the ASaAA, transfer any Stamp
+the ASaAA has to the member who received the most votes, by
+announcement. Once a Stamp has been successfully transfered, all
+persons' have 0 Proxies and a new Open Session begins.
 
 
 [The Agoran Voting Market]
