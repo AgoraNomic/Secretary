@@ -590,3 +590,71 @@
 2017-07-23 * Organization "ASaAA" created
     Organization:ASaAA:Member:nichdel              50 Budget
     Player:nichdel
+
+2017-07-25 * Organization "ASaAA" amended
+    Organization:ASaAA:Member:nichdel             -40 Budget = 10 Budget
+    Player:nichdel
+
+2017-07-25 * nichdel
+    Player:nichdel                                  2 Shinies
+    Player:Gaelan
+
+2017-07-25 * Organization "ASaAA" amended
+    Organization:ASaAA:Member:nichdel              40 Budget = 50 Budget
+    Player:nichdel
+
+2017-07-30 * Proposal 7867 enacted
+    Player:Aris                                   -73 Shinies = 0 Shinies
+    Player:Bayushi                                -10 Shinies = 0 Shinies
+    Player:Gaelan                                 -30 Shinies = 0 Shinies
+    Player:Ienpw III                              -20 Shinies = 0 Shinies
+    Player:Murphy                                 -64 Shinies = 0 Shinies
+    Player:Publius Scribonius Scholasticus        -80 Shinies = 0 Shinies
+    Player:Quazie                                 -41 Shinies = 0 Shinies
+    Player:Sprocklem                              -50 Shinies = 0 Shinies
+    Player:V.J Rada                                -5 Shinies = 0 Shinies
+    Player:Veggiekeks                             -26 Shinies = 0 Shinies
+    Player:Zachary Watterson                      -20 Shinies = 0 Shinies
+    Player:ais523                                 -89 Shinies = 0 Shinies
+    Player:nichdel                                 -2 Shinies = 0 Shinies
+    Player:o                                      -81 Shinies = 0 Shinies
+    Player:omd                                    -70 Shinies = 0 Shinies
+    Player:tmanthe2nd                             -20 Shinies = 0 Shinies
+    Player:天火狐                                  -25 Shinies = 0 Shinies
+    Agora                                         712 Shinies = 1000 Shinies
+    Proposal:7867
+
+2017-07-30 * nichdel's welcome package
+    Player:nichdel                                 50 Shinies
+    Agora
+
+2017-07-30 * nichdel created a stamp
+    Player:nichdel                                  1 nichdel_Stamps
+    Player:nichdel                                -40 Shinies
+    Agora                                          40 Shinies
+    Stamps:nichdel
+
+2017-07-30 * nichdel paid ASaAA
+    Organization:ASaAA                              1 Shinies
+    Player:nichdel
+
+2017-07-30 * ais523 claims welcome packages in bulk
+    Player:ais523                                  50 Shinies
+    Player:Aris                                    50 Shinies
+    Player:Murphy                                  50 Shinies
+    Player:o                                       50 Shinies
+    Player:Sprocklem                               50 Shinies
+    Player:天火狐                                   50 Shinies
+    Player:Zachary Watterson                       50 Shinies
+    Player:Quazie,                                 50 Shinies
+    Player:Publius Scribonius Scholasticus         50 Shinies
+    Player:tmanthe2nd                              50 Shinies
+    Player:Gaelan                                  50 Shinies
+    Player:Ienpw III,                              50 Shinies
+    Player:Veggiekeks                              50 Shinies
+    Player:omd                                     50 Shinies
+    Player:V.J. Rada                               50 Shinies
+    Player:Bayushi                                 50 Shinies
+    Player:Ajay Kumar Raja                         50 Shinies
+    Player:grok                                    50 Shinies
+    Agora
