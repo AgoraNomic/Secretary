@@ -669,7 +669,9 @@
 
 2017-08-01 * AVM paid o
     Player:o                                        5 Shinies
-    Organization:AVM:Bond:o
+    Player:o                                        1 Vote
+    Organization:AVM:Bond:o                        -5 Shinies
+    Organization:AVM:Votes:o                       -1 Vote
 
 2017-08-01 * V.J Rada claimed reward for Reportor
     Player:V.J Rada                                 5 Shinies
