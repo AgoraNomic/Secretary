@@ -9,11 +9,14 @@ Recent events (all times UTC)
 Thu, 27 Apr 2017 05:33:46  nichdel created Organization "AAaAA"
 Wed,  3 May 2017 04:22:28  o amended Organization "AVM"'s charter
 Thu, 25 May 2017 17:04:03  Organization 蘭亭社 charter amended (天火狐)
------ previous report -----
 Fri,  2 Jun 2017 05:38:18  Organization "AAaAA" destroyed (o)
------ time of last report -----
+----- previous report -----
 Sun, 23 Jul 2017 23:38:13  nichdel created Organization "Agoran Stamps
                             and Awards Association"
+----- time of last report -----
+Thu,  3 Aug 2017 21:54:18  nichdel amended organization "ASaAA"
+                            charter
+Thu, 17 Aug 2017 01:43:04  Organization "AVM" destroyed
 
 
 [The Agoran Betting Market]
@@ -131,57 +134,24 @@ By default, the ASaAA is in an Open Session.
 During an Open Session, any member may pay the ASaAA any number of
 shinies to receive the same number of ASaAA Proxies.
 
-During an Open Session, any member may transfer one Stamp to the ASaAA
+During an Open Session, any player may transfer one Stamp to the ASaAA
 and, on behalf of the ASaAA, transfer all the ASaAA's shinies to emself
-by announcement. When this happens the ASaAA Open Session ends and an
-ASaAA Voting Session begins.
+by announcement. When this happens the ASaAA Open Session ends, an ASaAA
+Voting Session begins, and the player who did so becomes the current
+Patron.
 
-During an ASaAA Voting Session, each member may vote for any member(s)
-any number of times and in any combination as long as eir total votes do
-not exceed eir current number of Proxies.
+During an ASaAA Voting Session, each member may vote for any player(s)
+except for the current Patron any number of times and in any combination
+as long as eir total votes do not exceed eir current number of Proxies.
+Members cannot withdraw votes, but they need not cast all votes at once,
+or at all.
 
-An ASaAA Voting Session ends after 3 days. When an ASaAA Voting Session
-has ended, any member may, on behalf of the ASaAA, transfer any Stamp
-the ASaAA has to the member who received the most votes, by
-announcement. Once a Stamp has been successfully transfered, all
-persons' have 0 Proxies and a new Open Session begins.
-
-
-[The Agoran Voting Market]
-
-An amendment to this Charter is Appropriate if intent to perform it was
-announced between 4 and 14 days ago, and no members have publicly
-objected to it since.
-
-Any player may join this Organization by flipping eir Budget switch for
-this Organization to a positive value, by announcement. Any member of
-this Organization may leave this Organization by flipping eir Budget
-switch for this Organization to zero, by announcement.
-
-A member of this organization may offer a number of votes for sale by
-paying this organization the current Pending List Price (the "bond"),
-and naming a price, in Shinies, by announcement. A player who has
-offered to sell their votes may retract eir offer by announcement. Any
-member of this organization can buy the offered votes, if no other
-player has done so, by paying this organization the price set by the
-seller, by announcement.
-
-A member of this organization may offer to buy a number votes by naming
-the price, in Shinies, that e is willing to pay, by announcement. A
-player who has offered to buy votes may retract eir offer by
-announcement. Any member of this organization can fill an offer to buy
-votes, if no other player has done so, by paying this organization the
-current Pending List Price (the "bond"), by announcement.
-
-A player who has sold votes must follow the buyer's voting directions
-for one Agoran Decision per vote sold. If that player does so, e may
-cause this organization to pay em the price at which e sold votes, plus
-eir bond, without objection. If that player votes other than as
-directed on an Agoran Decision covered by the sale, the buyer may cause
-this organization to pay em the price at which e bought the votes and
-to pay the seller's bond to Agora, without objection.
-
-Voting instructions may be provided privately.
+An ASaAA Voting Session ends after 3 days or after every vote is cast,
+whichever occurs first. When an ASaAA Voting Session has ended, any
+member may, on behalf of the ASaAA, transfer any Stamp the ASaAA has to
+the member who received the most votes, by announcement. Once a Stamp
+has been successfully transfered, all persons have 0 Proxies and a new
+Open Session begins.
 
 
 [蘭亭社]
